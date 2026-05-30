@@ -1,0 +1,8 @@
+<svg width="86" height="24" viewBox="0 0 86 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2 2.5L11 7.5L2 12.6V2.5Z" fill="#1BA5E9"/>
+  <path d="M12 7.5L21 2.5V12.6L12 7.5Z" fill="#79BE20"/>
+  <path d="M2 13.4L11 18.5V8.3L2 13.4Z" fill="#F7941D"/>
+  <path d="M12 18.5L21 13.4L12 8.3V18.5Z" fill="#E73734"/>
+  <text x="27" y="11.2" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" fill="#000">СБП</text>
+  <text x="27" y="19.2" font-family="Arial, Helvetica, sans-serif" font-size="4.8" font-weight="700" fill="#000">Система быстрых платежей</text>
+</svg>
